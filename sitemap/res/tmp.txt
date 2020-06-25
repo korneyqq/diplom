@@ -1,0 +1,9 @@
+<a href="/index.php/switch_language/1/1/2407">ru</a><br>
+<a href="/index.php/switch_language/1/382/2407">en</a><br>
+<a href="/index.php/media-content/blog">Новости</a><br>
+<a href="/index.php/structure/contact">Контакты</a><br>
+<a href="/index.php/structure">Контакты</a><br>
+<a href="/index.php/structure/employees">Сотрудники</a><br>
+<a href="/index.php/structure/uchebno-laboratornaya-baza-1">Учебно-лабораторная база</a><br>
+<a href="/index.php/structure/discipliny">Учебные дисциплины</a><br>
+<a href="/index.php/structure/about">История кафедры</a><br>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<url>
+	<loc>https://isap.vstu.by/index.php</loc>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
+	</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/switch_language/1/1/2407</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/switch_language/1/382/2407</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/media-content/blog</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/structure/contact</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/structure</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/structure/employees</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/structure/uchebno-laboratornaya-baza-1</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/structure/discipliny</loc>
+		</url>
+
+<url>
+		<loc>https://isap.vstu.by/index.php/structure/about</loc>
+		</url>
+
